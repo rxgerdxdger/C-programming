@@ -1,2 +1,3 @@
-# C-programming
-Introduction to C#
+ C# programming
+
+- Introduction to C#
